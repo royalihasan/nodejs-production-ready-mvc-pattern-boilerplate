@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-production-ready-mvc-pattern-boilerplate",
+  "version": "1.0.0",
+  "description": "Production Ready Boilerplate for NodeJS MVC Pattern",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start":"node index.js"
+  },
+  "author": "Roy Ali Hasan",
+  "license": "ISC"
+}
